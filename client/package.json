@@ -2,10 +2,9 @@
   "name": "client",
   "version": "1.0.0",
   "description": "Websocket Chat client",
-  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "node index.mjs"
+    "client": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -24,7 +23,7 @@
   },
   "homepage": "https://github.com/mowglixx/ws-client-server-npm#readme",
   "dependencies": {
-    "html5-websocket": "^2.0.4",
+    "html5-websocket": "^2.0.2",
     "reconnecting-websocket": "^4.4.0"
   }
 }
