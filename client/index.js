@@ -4,11 +4,11 @@
 //  Websocket dependancies
 //  installed with:
 //  `npm install html5-websocket reconnecting-websocket`
-import ReconnectingWebSocket from 'reconnecting-websocket'
+import ReconnectingWebSocket from 'reconnecting-websocket';
 
 
 //  webscket init
-    const rws = new ReconnectingWebSocket('ws://localhost:3000/ws');
+    const rws = new ReconnectingWebSocket('ws://localhost:3000/');
 
 
 //  set timeout
