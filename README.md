@@ -2,6 +2,8 @@
 
 This is a small project to help me understand websockets and get a more directed approach to adapting my already existing skills to Javascript of which I have very little experience
 
+Credit for tutorial and code used: [github.com/nonoesp]('https://github.com/nonoesp')
+
 ## tech in this project used
 - NodeJS
 - Javascript
