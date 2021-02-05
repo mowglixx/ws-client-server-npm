@@ -1,0 +1,30 @@
+{
+  "name": "ws-client-server-npm",
+  "version": "1.0.0",
+  "description": "Websocket Testing Ground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mowglixx/ws-client-server-npm.git"
+  },
+  "keywords": [
+    "websocket",
+    "javascript",
+    "web",
+    "development",
+    "sample"
+  ],
+  "author": "Daniel Monaghan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mowglixx/ws-client-server-npm/issues"
+  },
+  "homepage": "https://github.com/mowglixx/ws-client-server-npm#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.3"
+  }
+}
